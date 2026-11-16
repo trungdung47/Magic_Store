@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3bdb40314784dee9ec7162bd37b2329, type: 3}
+  m_Name: Data
+  m_EditorClassIdentifier: 
+  lsData:
+  - idLevel: 1
+    levelPrefab: {fileID: 7194947926220730944, guid: 849209011f98a7e49b718cb38e8f05fa, type: 3}
+    iconLevel: {fileID: 21300000, guid: 4eea7917e2120a84fabfe859d0cefdf0, type: 3}
+    sceneName: Level_01
+  - idLevel: 2
+    levelPrefab: {fileID: 4229576231150751604, guid: be0d7b1a5e054bf4f8c2633aaf68390e, type: 3}
+    iconLevel: {fileID: 21300000, guid: d81322f04afbf5b418d8c4b0525106a6, type: 3}
+    sceneName: Level_02
+  - idLevel: 3
+    levelPrefab: {fileID: 2835021316210619662, guid: 60b5f369f0fe63443bf57ac00bc61a09, type: 3}
+    iconLevel: {fileID: 21300000, guid: 97e485de429f5a8418d669081d5b761f, type: 3}
+    sceneName: Level_03
+  - idLevel: 4
+    levelPrefab: {fileID: 4229576231150751604, guid: be0d7b1a5e054bf4f8c2633aaf68390e, type: 3}
+    iconLevel: {fileID: 21300000, guid: d280cdee461a8ae40872d0a515acbe98, type: 3}
+    sceneName: 
+  - idLevel: 5
+    levelPrefab: {fileID: 7194947926220730944, guid: 849209011f98a7e49b718cb38e8f05fa, type: 3}
+    iconLevel: {fileID: 21300000, guid: 46b3d1c2b6d680d4499d930857c54bef, type: 3}
+    sceneName: 
